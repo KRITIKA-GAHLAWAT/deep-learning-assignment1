@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+
+wandb/
+notebooks/wandb/
+
+
 # Distribution / packaging
 .Python
 build/

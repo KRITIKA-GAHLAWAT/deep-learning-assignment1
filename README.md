@@ -1,6 +1,21 @@
 # Deep Learning Assignment 1
+**Kritika Gahlawat**
+**MA24M014**
+
 
 NumPy implementation of a fully-connected neural network for MNIST/Fashion-MNIST, with experiment scripts for optimizer, activation, loss-function, initialization, and error-analysis comparisons using Weights & Biases (W&B).
+
+
+**Github Link**
+```
+https://github.com/KRITIKA-GAHLAWAT/da6401_assignment_1
+```
+
+
+**Wandb Link**
+```
+https://wandb.ai/ma24m0-iit-madras/deep_learning_assignment_1/reports/Assignment-1-Multi-Layer-Perceptron-for-Image-Classification--VmlldzoxNjAyMzAxOQ?accessToken=f2mouq3c91lzwpyxjrkx6fjms3ckzs8xqwvjv3801pusb4glmtrtb1riv8weurbx
+```
 
 ## Project Structure
 
