@@ -1,0 +1,82 @@
+_wandb:
+    value:
+        cli_version: 0.25.0
+        e:
+            xvxvr8icp1jsjfjhniou8nywmebus1q6:
+                args:
+                    - --wandb_entity
+                    - ma24m0-iit-madras
+                codePath: src\weight_initialization.py
+                codePathLocal: weight_initialization.py
+                cpu_count: 10
+                cpu_count_logical: 12
+                disk:
+                    /:
+                        total: "498949156864"
+                        used: "207565033472"
+                email: ma24m014@smail.iitm.ac.in
+                executable: C:\Users\hp\AppData\Local\Programs\Python\Python313\python.exe
+                git:
+                    commit: 184aeffc46d91efeae462b80193dd14d98bb2e86
+                    remote: https://github.com/KRITIKA-GAHLAWAT/deep-learning-assignment1.git
+                host: DESKTOP-68MTNN0
+                memory:
+                    total: "16858472448"
+                os: Windows-11-10.0.26200-SP0
+                program: C:\Users\hp\dl_project\assignment\deep-learning-assignment1\src\weight_initialization.py
+                python: CPython 3.13.1
+                root: C:\Users\hp\dl_project\assignment\deep-learning-assignment1\src
+                startedAt: "2026-03-07T05:50:21.266261Z"
+                writerId: xvxvr8icp1jsjfjhniou8nywmebus1q6
+        m: []
+        python_version: 3.13.1
+        t:
+            "1":
+                - 2
+                - 3
+                - 5
+                - 53
+            "2":
+                - 2
+                - 3
+                - 5
+                - 53
+            "3":
+                - 13
+                - 16
+            "4": 3.13.1
+            "5": 0.25.0
+            "8":
+                - 3
+            "12": 0.25.0
+            "13": windows-amd64
+activation_function:
+    value: sigmoid
+batch_size:
+    value: 64
+dataset:
+    value: mnist
+iterations:
+    value: 50
+learning_rate:
+    value: 0.001
+num_hidden_layers:
+    value: 2
+num_neurons:
+    value: 128
+optimizer:
+    value: adam
+out_dir:
+    value: src/models
+random_seed:
+    value: 42
+val_ratio:
+    value: 0.1
+wandb_entity:
+    value: ma24m0-iit-madras
+wandb_mode:
+    value: online
+wandb_project:
+    value: mnist-ann-analysis
+wandb_run_name:
+    value: q2_9_weight_init_symmetry

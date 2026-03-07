@@ -1,0 +1,39 @@
+{
+  "os":  "Windows-11-10.0.26200-SP0",
+  "python":  "CPython 3.13.1",
+  "startedAt":  "2026-03-03T07:23:01.839433Z",
+  "args":  [
+    "--run_sweep",
+    "--sweep_config",
+    "sweep_config.yaml",
+    "--sweep_count",
+    "100",
+    "--wandb_project",
+    "mnist-ann",
+    "--wandb_mode",
+    "online"
+  ],
+  "program":  "C:\\Users\\hp\\dl_project\\assignment\\deep-learning-assignment1\\src\\train.py",
+  "codePath":  "src\\train.py",
+  "codePathLocal":  "train.py",
+  "git":  {
+    "remote":  "https://github.com/KRITIKA-GAHLAWAT/deep-learning-assignment1.git",
+    "commit":  "184aeffc46d91efeae462b80193dd14d98bb2e86"
+  },
+  "email":  "ma24m014@smail.iitm.ac.in",
+  "root":  "C:\\Users\\hp\\dl_project\\assignment\\deep-learning-assignment1\\src",
+  "host":  "DESKTOP-68MTNN0",
+  "executable":  "C:\\Users\\hp\\dl_project\\assignment\\deep-learning-assignment1\\dl\\Scripts\\python.exe",
+  "cpu_count":  10,
+  "cpu_count_logical":  12,
+  "disk":  {
+    "/":  {
+      "total":  "498949156864",
+      "used":  "209040715776"
+    }
+  },
+  "memory":  {
+    "total":  "16858472448"
+  },
+  "writerId":  "qjwwsn7y6x30rdp74z2pb17hm7rzbecc"
+}

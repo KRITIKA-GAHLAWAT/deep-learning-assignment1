@@ -1,0 +1,32 @@
+{
+  "os":  "Windows-11-10.0.26200-SP0",
+  "python":  "CPython 3.13.1",
+  "startedAt":  "2026-03-07T08:23:16.512547Z",
+  "args":  [
+    "--wandb_entity",
+    "ma24m0-iit-madras"
+  ],
+  "program":  "C:\\Users\\hp\\dl_project\\assignment\\deep-learning-assignment1\\src\\weight_initialization.py",
+  "codePath":  "src\\weight_initialization.py",
+  "codePathLocal":  "weight_initialization.py",
+  "git":  {
+    "remote":  "https://github.com/KRITIKA-GAHLAWAT/deep-learning-assignment1.git",
+    "commit":  "184aeffc46d91efeae462b80193dd14d98bb2e86"
+  },
+  "email":  "ma24m014@smail.iitm.ac.in",
+  "root":  "C:\\Users\\hp\\dl_project\\assignment\\deep-learning-assignment1\\src",
+  "host":  "DESKTOP-68MTNN0",
+  "executable":  "C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+  "cpu_count":  10,
+  "cpu_count_logical":  12,
+  "disk":  {
+    "/":  {
+      "total":  "498949156864",
+      "used":  "207626792960"
+    }
+  },
+  "memory":  {
+    "total":  "16858472448"
+  },
+  "writerId":  "g1o00b2e3nopa74hewmkhip3odf5e8hn"
+}

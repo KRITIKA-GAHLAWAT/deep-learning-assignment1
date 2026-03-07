@@ -1,0 +1,12 @@
+{"time":"2026-03-07T10:38:30.8096328+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-03-07T10:38:31.3478944+05:30","level":"INFO","msg":"stream: created new stream","id":"ondicrid"}
+{"time":"2026-03-07T10:38:31.3478944+05:30","level":"INFO","msg":"handler: started","stream_id":"ondicrid"}
+{"time":"2026-03-07T10:38:31.3520705+05:30","level":"INFO","msg":"stream: started","id":"ondicrid"}
+{"time":"2026-03-07T10:38:31.3520705+05:30","level":"INFO","msg":"sender: started","stream_id":"ondicrid"}
+{"time":"2026-03-07T10:38:31.3520705+05:30","level":"INFO","msg":"writer: started","stream_id":"ondicrid"}
+{"time":"2026-03-07T10:40:19.5391262+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-03-07T10:40:19.9760687+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-03-07T10:40:19.990197+05:30","level":"INFO","msg":"stream: closing","id":"ondicrid"}
+{"time":"2026-03-07T10:40:19.990197+05:30","level":"INFO","msg":"handler: closed","stream_id":"ondicrid"}
+{"time":"2026-03-07T10:40:20.0008697+05:30","level":"INFO","msg":"sender: closed","stream_id":"ondicrid"}
+{"time":"2026-03-07T10:40:20.0008697+05:30","level":"INFO","msg":"stream: closed","id":"ondicrid"}

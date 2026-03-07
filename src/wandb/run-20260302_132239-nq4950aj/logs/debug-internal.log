@@ -1,0 +1,12 @@
+{"time":"2026-03-02T13:22:41.77498+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-03-02T13:22:42.2044578+05:30","level":"INFO","msg":"stream: created new stream","id":"nq4950aj"}
+{"time":"2026-03-02T13:22:42.2044578+05:30","level":"INFO","msg":"handler: started","stream_id":"nq4950aj"}
+{"time":"2026-03-02T13:22:42.2065974+05:30","level":"INFO","msg":"stream: started","id":"nq4950aj"}
+{"time":"2026-03-02T13:22:42.2065974+05:30","level":"INFO","msg":"writer: started","stream_id":"nq4950aj"}
+{"time":"2026-03-02T13:22:42.2065974+05:30","level":"INFO","msg":"sender: started","stream_id":"nq4950aj"}
+{"time":"2026-03-02T13:23:13.0736608+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-03-02T13:23:13.5665717+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-03-02T13:23:13.5709323+05:30","level":"INFO","msg":"stream: closing","id":"nq4950aj"}
+{"time":"2026-03-02T13:23:13.5709323+05:30","level":"INFO","msg":"handler: closed","stream_id":"nq4950aj"}
+{"time":"2026-03-02T13:23:13.5796101+05:30","level":"INFO","msg":"sender: closed","stream_id":"nq4950aj"}
+{"time":"2026-03-02T13:23:13.5802406+05:30","level":"INFO","msg":"stream: closed","id":"nq4950aj"}

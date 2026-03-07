@@ -1,0 +1,96 @@
+_wandb:
+    value:
+        cli_version: 0.25.0
+        e:
+            cf8fgkfghvg2bf0z6itggg15ojcf4l43:
+                args:
+                    - --entity
+                    - ma24m0-iit-madras
+                    - --project
+                    - mnist-ann
+                    - --log_to_wandb
+                codePath: src\error_analysis.py
+                codePathLocal: error_analysis.py
+                cpu_count: 10
+                cpu_count_logical: 12
+                disk:
+                    /:
+                        total: "498949156864"
+                        used: "207648194560"
+                email: ma24m014@smail.iitm.ac.in
+                executable: C:\Users\hp\AppData\Local\Programs\Python\Python313\python.exe
+                git:
+                    commit: 184aeffc46d91efeae462b80193dd14d98bb2e86
+                    remote: https://github.com/KRITIKA-GAHLAWAT/deep-learning-assignment1.git
+                host: DESKTOP-68MTNN0
+                memory:
+                    total: "16858472448"
+                os: Windows-11-10.0.26200-SP0
+                program: C:\Users\hp\dl_project\assignment\deep-learning-assignment1\src\error_analysis.py
+                python: CPython 3.13.1
+                root: C:\Users\hp\dl_project\assignment\deep-learning-assignment1\src
+                startedAt: "2026-03-07T08:41:58.299348Z"
+                writerId: cf8fgkfghvg2bf0z6itggg15ojcf4l43
+        m: []
+        python_version: 3.13.1
+        t:
+            "1":
+                - 2
+                - 3
+                - 5
+                - 53
+            "2":
+                - 2
+                - 3
+                - 5
+                - 53
+            "3":
+                - 2
+                - 13
+                - 16
+                - 62
+            "4": 3.13.1
+            "5": 0.25.0
+            "8":
+                - 3
+            "12": 0.25.0
+            "13": windows-amd64
+        visualize:
+            q2_8/confusion_matrix_plot:
+                panel_config:
+                    fieldSettings:
+                        Actual: Actual
+                        Predicted: Predicted
+                        nPredictions: nPredictions
+                    panelDefId: wandb/confusion_matrix/v1
+                    stringSettings:
+                        title: Confusion Matrix Curve
+                    transform:
+                        name: tableWithLeafColNames
+                    userQuery:
+                        queryFields:
+                            - args:
+                                - name: runSets
+                                  value: ${runSets}
+                              fields:
+                                - fields: []
+                                  name: id
+                                - fields: []
+                                  name: name
+                                - fields: []
+                                  name: _defaultColorIndex
+                                - args:
+                                    - name: tableKey
+                                      value: q2_8/confusion_matrix_plot_table
+                                  fields: []
+                                  name: summaryTable
+                              name: runSets
+                panel_type: Vega2
+best_run_id:
+    value: w2i1c2h3
+best_run_name:
+    value: copper-sweep-30
+metric_key:
+    value: test/accuracy
+source_project:
+    value: mnist-ann

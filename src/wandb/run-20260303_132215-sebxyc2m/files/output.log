@@ -1,0 +1,19 @@
+[34m[1mwandb[0m: [33mWARNING[0m Config item 'dataset' was locked by 'sweep' (ignored update).
+[34m[1mwandb[0m: [33mWARNING[0m Config item 'num_hidden_layers' was locked by 'sweep' (ignored update).
+[34m[1mwandb[0m: [33mWARNING[0m Config item 'num_neurons' was locked by 'sweep' (ignored update).
+[34m[1mwandb[0m: [33mWARNING[0m Config item 'initialization_method' was locked by 'sweep' (ignored update).
+[34m[1mwandb[0m: [33mWARNING[0m Config item 'activation_function' was locked by 'sweep' (ignored update).
+[34m[1mwandb[0m: [33mWARNING[0m Config item 'optimizer' was locked by 'sweep' (ignored update).
+[34m[1mwandb[0m: [33mWARNING[0m Config item 'learning_rate' was locked by 'sweep' (ignored update).
+[34m[1mwandb[0m: [33mWARNING[0m Config item 'epochs' was locked by 'sweep' (ignored update).
+[34m[1mwandb[0m: [33mWARNING[0m Config item 'batch_size' was locked by 'sweep' (ignored update).
+[34m[1mwandb[0m: [33mWARNING[0m Config item 'weight_decay' was locked by 'sweep' (ignored update).
+[34m[1mwandb[0m: [33mWARNING[0m Config item 'val_ratio' was locked by 'sweep' (ignored update).
+[34m[1mwandb[0m: [33mWARNING[0m Config item 'random_seed' was locked by 'sweep' (ignored update).
+Epoch 001/5 | train_loss=0.1374 train_acc=0.9579 | val_loss=0.1677 val_acc=0.9482
+Epoch 002/5 | train_loss=0.1161 train_acc=0.9629 | val_loss=0.1573 val_acc=0.9553
+Epoch 003/5 | train_loss=0.0876 train_acc=0.9730 | val_loss=0.1334 val_acc=0.9610
+Epoch 004/5 | train_loss=0.0750 train_acc=0.9773 | val_loss=0.1319 val_acc=0.9623
+Epoch 005/5 | train_loss=0.0794 train_acc=0.9746 | val_loss=0.1374 val_acc=0.9615
+Test loss: 0.1241
+Test accuracy: 0.9598

@@ -1,0 +1,13 @@
+{"time":"2026-02-26T21:40:25.4685827+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-02-26T21:40:25.9563601+05:30","level":"INFO","msg":"stream: created new stream","id":"il5h8g14"}
+{"time":"2026-02-26T21:40:25.9613815+05:30","level":"INFO","msg":"handler: started","stream_id":"il5h8g14"}
+{"time":"2026-02-26T21:40:25.9640983+05:30","level":"INFO","msg":"stream: started","id":"il5h8g14"}
+{"time":"2026-02-26T21:40:25.965661+05:30","level":"INFO","msg":"writer: started","stream_id":"il5h8g14"}
+{"time":"2026-02-26T21:40:25.965661+05:30","level":"INFO","msg":"sender: started","stream_id":"il5h8g14"}
+{"time":"2026-02-26T22:21:02.8057877+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/ma24m0-iit-madras/mnist-ann/il5h8g14/file_stream\": read tcp 10.42.185.126:56453->35.186.228.49:443: wsarecv: An established connection was aborted by the software in your host machine."}
+{"time":"2026-02-26T22:22:22.4601054+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-26T22:22:23.1337198+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-26T22:22:23.1644546+05:30","level":"INFO","msg":"stream: closing","id":"il5h8g14"}
+{"time":"2026-02-26T22:22:23.1680918+05:30","level":"INFO","msg":"handler: closed","stream_id":"il5h8g14"}
+{"time":"2026-02-26T22:22:23.1693188+05:30","level":"INFO","msg":"sender: closed","stream_id":"il5h8g14"}
+{"time":"2026-02-26T22:22:23.1693188+05:30","level":"INFO","msg":"stream: closed","id":"il5h8g14"}

@@ -1,0 +1,15 @@
+{"time":"2026-03-02T16:38:20.546077+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-03-02T16:38:21.0933356+05:30","level":"INFO","msg":"stream: created new stream","id":"lx6r7sqs"}
+{"time":"2026-03-02T16:38:21.0961049+05:30","level":"INFO","msg":"handler: started","stream_id":"lx6r7sqs"}
+{"time":"2026-03-02T16:38:21.0999372+05:30","level":"INFO","msg":"stream: started","id":"lx6r7sqs"}
+{"time":"2026-03-02T16:38:21.1048475+05:30","level":"INFO","msg":"sender: started","stream_id":"lx6r7sqs"}
+{"time":"2026-03-02T16:38:21.1048475+05:30","level":"INFO","msg":"writer: started","stream_id":"lx6r7sqs"}
+{"time":"2026-03-02T17:35:48.7263942+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/ma24m0-iit-madras/mnist-ann/lx6r7sqs/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-02T17:35:51.1573002+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/ma24m0-iit-madras/mnist-ann/lx6r7sqs/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-02T18:15:07.8030882+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/ma24m0-iit-madras/mnist-ann/lx6r7sqs/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-02T18:20:16.6942716+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-03-02T18:20:17.0378191+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-03-02T18:20:17.0486656+05:30","level":"INFO","msg":"stream: closing","id":"lx6r7sqs"}
+{"time":"2026-03-02T18:20:17.0491722+05:30","level":"INFO","msg":"handler: closed","stream_id":"lx6r7sqs"}
+{"time":"2026-03-02T18:20:17.0498617+05:30","level":"INFO","msg":"sender: closed","stream_id":"lx6r7sqs"}
+{"time":"2026-03-02T18:20:17.0498617+05:30","level":"INFO","msg":"stream: closed","id":"lx6r7sqs"}

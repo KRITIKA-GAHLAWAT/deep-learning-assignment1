@@ -1,0 +1,23 @@
+{"time":"2026-03-02T23:47:15.3897393+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-03-02T23:47:16.0980968+05:30","level":"INFO","msg":"stream: created new stream","id":"vujw1zok"}
+{"time":"2026-03-02T23:47:16.1010945+05:30","level":"INFO","msg":"handler: started","stream_id":"vujw1zok"}
+{"time":"2026-03-02T23:47:16.1244438+05:30","level":"INFO","msg":"stream: started","id":"vujw1zok"}
+{"time":"2026-03-02T23:47:16.1244438+05:30","level":"INFO","msg":"sender: started","stream_id":"vujw1zok"}
+{"time":"2026-03-02T23:47:16.1244438+05:30","level":"INFO","msg":"writer: started","stream_id":"vujw1zok"}
+{"time":"2026-03-03T00:01:05.9787781+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/ma24m0-iit-madras/mnist-ann/vujw1zok/file_stream\": read tcp 10.45.20.88:54712->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2026-03-03T00:02:20.9332444+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/ma24m0-iit-madras/mnist-ann/vujw1zok/file_stream\": read tcp 10.45.20.88:56596->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2026-03-03T00:21:32.2829352+05:30","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/ma24m0-iit-madras/mnist-ann/vujw1zok/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2026-03-03T02:41:22.4455461+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/ma24m0-iit-madras/mnist-ann/vujw1zok/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-03T02:41:24.6424178+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/ma24m0-iit-madras/mnist-ann/vujw1zok/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-03T09:18:00.0277261+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/ma24m0-iit-madras/mnist-ann/vujw1zok/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-03T09:18:09.9159373+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/ma24m0-iit-madras/mnist-ann/vujw1zok/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-03T09:18:28.0890856+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/ma24m0-iit-madras/mnist-ann/vujw1zok/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-03T09:19:15.9109687+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/ma24m0-iit-madras/mnist-ann/vujw1zok/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-03T09:20:27.1847391+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/ma24m0-iit-madras/mnist-ann/vujw1zok/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-03T12:34:59.5795474+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/ma24m0-iit-madras/mnist-ann/vujw1zok/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-03T12:38:55.8861883+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-03-03T12:38:56.2659348+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-03-03T12:38:56.2796774+05:30","level":"INFO","msg":"stream: closing","id":"vujw1zok"}
+{"time":"2026-03-03T12:38:56.2796774+05:30","level":"INFO","msg":"handler: closed","stream_id":"vujw1zok"}
+{"time":"2026-03-03T12:38:56.2803088+05:30","level":"INFO","msg":"sender: closed","stream_id":"vujw1zok"}
+{"time":"2026-03-03T12:38:56.2803088+05:30","level":"INFO","msg":"stream: closed","id":"vujw1zok"}

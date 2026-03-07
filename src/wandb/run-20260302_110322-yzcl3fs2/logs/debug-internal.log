@@ -1,0 +1,12 @@
+{"time":"2026-03-02T11:03:25.1871477+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-03-02T11:03:25.6945395+05:30","level":"INFO","msg":"stream: created new stream","id":"yzcl3fs2"}
+{"time":"2026-03-02T11:03:25.695598+05:30","level":"INFO","msg":"handler: started","stream_id":"yzcl3fs2"}
+{"time":"2026-03-02T11:03:25.6984729+05:30","level":"INFO","msg":"stream: started","id":"yzcl3fs2"}
+{"time":"2026-03-02T11:03:25.6990236+05:30","level":"INFO","msg":"sender: started","stream_id":"yzcl3fs2"}
+{"time":"2026-03-02T11:03:25.6990236+05:30","level":"INFO","msg":"writer: started","stream_id":"yzcl3fs2"}
+{"time":"2026-03-02T11:03:51.7050843+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-03-02T11:03:52.3992356+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-03-02T11:03:52.4171381+05:30","level":"INFO","msg":"stream: closing","id":"yzcl3fs2"}
+{"time":"2026-03-02T11:03:52.4182728+05:30","level":"INFO","msg":"handler: closed","stream_id":"yzcl3fs2"}
+{"time":"2026-03-02T11:03:52.4188917+05:30","level":"INFO","msg":"sender: closed","stream_id":"yzcl3fs2"}
+{"time":"2026-03-02T11:03:52.4188917+05:30","level":"INFO","msg":"stream: closed","id":"yzcl3fs2"}

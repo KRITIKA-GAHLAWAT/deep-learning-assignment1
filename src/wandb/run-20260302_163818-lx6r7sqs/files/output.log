@@ -1,0 +1,25 @@
+[34m[1mwandb[0m: [33mWARNING[0m Config item 'dataset' was locked by 'sweep' (ignored update).
+[34m[1mwandb[0m: [33mWARNING[0m Config item 'num_hidden_layers' was locked by 'sweep' (ignored update).
+[34m[1mwandb[0m: [33mWARNING[0m Config item 'num_neurons' was locked by 'sweep' (ignored update).
+[34m[1mwandb[0m: [33mWARNING[0m Config item 'initialization_method' was locked by 'sweep' (ignored update).
+[34m[1mwandb[0m: [33mWARNING[0m Config item 'activation_function' was locked by 'sweep' (ignored update).
+[34m[1mwandb[0m: [33mWARNING[0m Config item 'optimizer' was locked by 'sweep' (ignored update).
+[34m[1mwandb[0m: [33mWARNING[0m Config item 'learning_rate' was locked by 'sweep' (ignored update).
+[34m[1mwandb[0m: [33mWARNING[0m Config item 'epochs' was locked by 'sweep' (ignored update).
+[34m[1mwandb[0m: [33mWARNING[0m Config item 'batch_size' was locked by 'sweep' (ignored update).
+[34m[1mwandb[0m: [33mWARNING[0m Config item 'weight_decay' was locked by 'sweep' (ignored update).
+[34m[1mwandb[0m: [33mWARNING[0m Config item 'val_ratio' was locked by 'sweep' (ignored update).
+[34m[1mwandb[0m: [33mWARNING[0m Config item 'random_seed' was locked by 'sweep' (ignored update).
+Epoch 001/10 | train_loss=2.2970 train_acc=0.1129 | val_loss=2.2960 val_acc=0.1125
+Epoch 002/10 | train_loss=2.2937 train_acc=0.1124 | val_loss=2.2938 val_acc=0.1125
+Epoch 003/10 | train_loss=2.2903 train_acc=0.1775 | val_loss=2.2906 val_acc=0.1732
+Epoch 004/10 | train_loss=2.2868 train_acc=0.1187 | val_loss=2.2864 val_acc=0.1185
+[34m[1mwandb[0m: Network error (ConnectionError), entering retry loop.
+Epoch 005/10 | train_loss=2.2835 train_acc=0.2183 | val_loss=2.2833 val_acc=0.2127
+Epoch 006/10 | train_loss=2.2802 train_acc=0.2724 | val_loss=2.2795 val_acc=0.2678
+Epoch 007/10 | train_loss=2.2762 train_acc=0.2509 | val_loss=2.2761 val_acc=0.2458
+Epoch 008/10 | train_loss=2.2732 train_acc=0.1427 | val_loss=2.2729 val_acc=0.1415
+Epoch 009/10 | train_loss=2.2688 train_acc=0.2263 | val_loss=2.2688 val_acc=0.2215
+Epoch 010/10 | train_loss=2.2649 train_acc=0.1313 | val_loss=2.2648 val_acc=0.1317
+Test loss: 2.2636
+Test accuracy: 0.1327

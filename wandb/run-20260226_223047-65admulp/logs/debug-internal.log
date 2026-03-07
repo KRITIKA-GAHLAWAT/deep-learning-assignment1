@@ -1,0 +1,17 @@
+{"time":"2026-02-26T22:30:49.3359547+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-02-26T22:30:49.8044499+05:30","level":"INFO","msg":"stream: created new stream","id":"65admulp"}
+{"time":"2026-02-26T22:30:49.8099633+05:30","level":"INFO","msg":"handler: started","stream_id":"65admulp"}
+{"time":"2026-02-26T22:30:49.8185258+05:30","level":"INFO","msg":"stream: started","id":"65admulp"}
+{"time":"2026-02-26T22:30:49.8204378+05:30","level":"INFO","msg":"writer: started","stream_id":"65admulp"}
+{"time":"2026-02-26T22:30:49.8204378+05:30","level":"INFO","msg":"sender: started","stream_id":"65admulp"}
+{"time":"2026-02-26T23:02:03.9228413+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/ma24m0-iit-madras/mnist-ann/65admulp/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-02-26T23:02:06.1336243+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/ma24m0-iit-madras/mnist-ann/65admulp/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-02-26T23:02:11.0311118+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/ma24m0-iit-madras/mnist-ann/65admulp/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-02-26T23:02:20.0836577+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/ma24m0-iit-madras/mnist-ann/65admulp/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-02-26T23:07:54.9459544+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/ma24m0-iit-madras/mnist-ann/65admulp/file_stream\": read tcp 10.45.22.41:56186->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2026-02-26T23:25:35.1883938+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-26T23:25:36.0719108+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-26T23:25:36.1298054+05:30","level":"INFO","msg":"stream: closing","id":"65admulp"}
+{"time":"2026-02-26T23:25:36.1304338+05:30","level":"INFO","msg":"handler: closed","stream_id":"65admulp"}
+{"time":"2026-02-26T23:25:36.1309564+05:30","level":"INFO","msg":"sender: closed","stream_id":"65admulp"}
+{"time":"2026-02-26T23:25:36.1314605+05:30","level":"INFO","msg":"stream: closed","id":"65admulp"}

@@ -1,0 +1,55 @@
+_wandb:
+    value:
+        cli_version: 0.25.0
+        e:
+            b9657gm34hvk4mjck5b0gh08bu1wb8z0:
+                args:
+                    - --wandb_project
+                    - mnist-ann
+                    - --wandb_mode
+                    - online
+                codePath: src\run_compare.py
+                codePathLocal: run_compare.py
+                cpu_count: 10
+                cpu_count_logical: 12
+                disk:
+                    /:
+                        total: "498949156864"
+                        used: "208062246912"
+                email: ma24m014@smail.iitm.ac.in
+                executable: C:\Users\hp\dl_project\assignment\deep-learning-assignment1\dl\Scripts\python.exe
+                git:
+                    commit: 184aeffc46d91efeae462b80193dd14d98bb2e86
+                    remote: https://github.com/KRITIKA-GAHLAWAT/deep-learning-assignment1.git
+                host: DESKTOP-68MTNN0
+                memory:
+                    total: "16858472448"
+                os: Windows-11-10.0.26200-SP0
+                program: C:\Users\hp\dl_project\assignment\deep-learning-assignment1\src\run_compare.py
+                python: CPython 3.13.1
+                root: C:\Users\hp\dl_project\assignment\deep-learning-assignment1\src
+                startedAt: "2026-02-26T13:07:26.333678Z"
+                writerId: b9657gm34hvk4mjck5b0gh08bu1wb8z0
+        m: []
+        python_version: 3.13.1
+        t:
+            "1":
+                - 2
+                - 3
+            "2":
+                - 2
+                - 3
+            "3":
+                - 2
+                - 14
+                - 17
+                - 61
+                - 62
+            "4": 3.13.1
+            "5": 0.25.0
+            "8":
+                - 3
+            "12": 0.25.0
+            "13": windows-amd64
+optimizer:
+    value: sgd

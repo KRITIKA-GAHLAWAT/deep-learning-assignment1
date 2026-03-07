@@ -1,0 +1,1 @@
+{"optimizer":"nesterov","final_train_loss":0.10874467657715785,"_timestamp":1.772812247922395e+09,"_step":10,"epoch":10,"final_val_loss":0.1407330438675645,"val/loss":0.1407330438675645,"_wandb":{"runtime":807},"_runtime":807.1030283,"architecture":"3_hidden_layers_x_128_neurons_relu","train/loss":0.10874467657715785}

@@ -1,0 +1,12 @@
+{"time":"2026-03-03T13:22:18.2622026+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-03-03T13:22:18.670336+05:30","level":"INFO","msg":"stream: created new stream","id":"sebxyc2m"}
+{"time":"2026-03-03T13:22:18.6709338+05:30","level":"INFO","msg":"handler: started","stream_id":"sebxyc2m"}
+{"time":"2026-03-03T13:22:18.6741213+05:30","level":"INFO","msg":"stream: started","id":"sebxyc2m"}
+{"time":"2026-03-03T13:22:18.6741213+05:30","level":"INFO","msg":"sender: started","stream_id":"sebxyc2m"}
+{"time":"2026-03-03T13:22:18.6741213+05:30","level":"INFO","msg":"writer: started","stream_id":"sebxyc2m"}
+{"time":"2026-03-03T13:22:41.6470312+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-03-03T13:22:41.9667673+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-03-03T13:22:41.9758811+05:30","level":"INFO","msg":"stream: closing","id":"sebxyc2m"}
+{"time":"2026-03-03T13:22:41.9758811+05:30","level":"INFO","msg":"handler: closed","stream_id":"sebxyc2m"}
+{"time":"2026-03-03T13:22:41.9853796+05:30","level":"INFO","msg":"sender: closed","stream_id":"sebxyc2m"}
+{"time":"2026-03-03T13:22:41.9853796+05:30","level":"INFO","msg":"stream: closed","id":"sebxyc2m"}

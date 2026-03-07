@@ -1,0 +1,55 @@
+_wandb:
+    value:
+        cli_version: 0.25.0
+        e:
+            d2iwrtanzpfiidqrg4vm6kp69e8sf94z:
+                args:
+                    - --wandb_project
+                    - mnist-ann
+                codePath: src\lossfunction_comparison.py
+                codePathLocal: lossfunction_comparison.py
+                cpu_count: 10
+                cpu_count_logical: 12
+                disk:
+                    /:
+                        total: "498949156864"
+                        used: "206740086784"
+                email: ma24m014@smail.iitm.ac.in
+                executable: C:\Users\hp\AppData\Local\Programs\Python\Python313\python.exe
+                git:
+                    commit: 184aeffc46d91efeae462b80193dd14d98bb2e86
+                    remote: https://github.com/KRITIKA-GAHLAWAT/deep-learning-assignment1.git
+                host: DESKTOP-68MTNN0
+                memory:
+                    total: "16858472448"
+                os: Windows-11-10.0.26200-SP0
+                program: C:\Users\hp\dl_project\assignment\deep-learning-assignment1\src\lossfunction_comparison.py
+                python: CPython 3.13.1
+                root: C:\Users\hp\dl_project\assignment\deep-learning-assignment1\src
+                startedAt: "2026-03-07T04:47:02.425860Z"
+                writerId: d2iwrtanzpfiidqrg4vm6kp69e8sf94z
+        m: []
+        python_version: 3.13.1
+        t:
+            "1":
+                - 2
+                - 3
+            "2":
+                - 2
+                - 3
+            "3":
+                - 2
+                - 14
+                - 17
+                - 61
+                - 62
+            "4": 3.13.1
+            "5": 0.25.0
+            "8":
+                - 3
+            "12": 0.25.0
+            "13": windows-amd64
+loss_function:
+    value: mse_loss
+seed:
+    value: 46

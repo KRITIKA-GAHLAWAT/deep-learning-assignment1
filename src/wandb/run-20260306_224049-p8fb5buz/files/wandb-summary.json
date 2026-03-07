@@ -1,0 +1,1 @@
+{"optimizer":"momentum","_wandb":{"runtime":32},"_step":10,"val/loss":0.35595977628087627,"final_train_loss":0.3376947594542506,"final_val_loss":0.35595977628087627,"epoch":10,"architecture":"3_hidden_layers_x_128_neurons_relu","_runtime":32.7104878,"train/loss":0.3376947594542506,"_timestamp":1.7728170855376165e+09}

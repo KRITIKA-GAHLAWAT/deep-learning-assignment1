@@ -1,0 +1,1 @@
+{"final/val_loss":0.004162008943918792,"final/val_accuracy":0.9745,"val/loss":0.004162008943918792,"final/train_loss":0.0017756691857775913,"_wandb":{"runtime":54},"train/loss":0.0017756691857775913,"_step":10,"epoch":10,"seed":43,"train/accuracy":0.9889814814814815,"_runtime":54.4363604,"val/accuracy":0.9745,"_timestamp":1.7728586109524257e+09,"loss_function":"mse_loss"}

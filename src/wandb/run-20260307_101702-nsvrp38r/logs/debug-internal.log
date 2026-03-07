@@ -1,0 +1,12 @@
+{"time":"2026-03-07T10:17:04.7309669+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-03-07T10:17:05.3218694+05:30","level":"INFO","msg":"stream: created new stream","id":"nsvrp38r"}
+{"time":"2026-03-07T10:17:05.3348421+05:30","level":"INFO","msg":"handler: started","stream_id":"nsvrp38r"}
+{"time":"2026-03-07T10:17:05.3360355+05:30","level":"INFO","msg":"stream: started","id":"nsvrp38r"}
+{"time":"2026-03-07T10:17:05.3390451+05:30","level":"INFO","msg":"writer: started","stream_id":"nsvrp38r"}
+{"time":"2026-03-07T10:17:05.3390451+05:30","level":"INFO","msg":"sender: started","stream_id":"nsvrp38r"}
+{"time":"2026-03-07T10:18:59.615394+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-03-07T10:19:00.2743655+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-03-07T10:19:00.2985818+05:30","level":"INFO","msg":"stream: closing","id":"nsvrp38r"}
+{"time":"2026-03-07T10:19:00.2985818+05:30","level":"INFO","msg":"handler: closed","stream_id":"nsvrp38r"}
+{"time":"2026-03-07T10:19:00.3044174+05:30","level":"INFO","msg":"sender: closed","stream_id":"nsvrp38r"}
+{"time":"2026-03-07T10:19:00.3044174+05:30","level":"INFO","msg":"stream: closed","id":"nsvrp38r"}

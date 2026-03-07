@@ -1,0 +1,12 @@
+{"time":"2026-03-06T20:54:35.3089455+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-03-06T20:54:36.9323653+05:30","level":"INFO","msg":"stream: created new stream","id":"krsat9rd"}
+{"time":"2026-03-06T20:54:36.9335973+05:30","level":"INFO","msg":"handler: started","stream_id":"krsat9rd"}
+{"time":"2026-03-06T20:54:36.9517984+05:30","level":"INFO","msg":"stream: started","id":"krsat9rd"}
+{"time":"2026-03-06T20:54:36.9523044+05:30","level":"INFO","msg":"sender: started","stream_id":"krsat9rd"}
+{"time":"2026-03-06T20:54:36.9523044+05:30","level":"INFO","msg":"writer: started","stream_id":"krsat9rd"}
+{"time":"2026-03-06T21:05:12.522488+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-03-06T21:05:13.3409069+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-03-06T21:05:13.3544526+05:30","level":"INFO","msg":"stream: closing","id":"krsat9rd"}
+{"time":"2026-03-06T21:05:13.3544526+05:30","level":"INFO","msg":"handler: closed","stream_id":"krsat9rd"}
+{"time":"2026-03-06T21:05:13.3615451+05:30","level":"INFO","msg":"sender: closed","stream_id":"krsat9rd"}
+{"time":"2026-03-06T21:05:13.3615451+05:30","level":"INFO","msg":"stream: closed","id":"krsat9rd"}

@@ -1,0 +1,13 @@
+{"time":"2026-02-27T01:07:21.2226895+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-02-27T01:07:21.7681404+05:30","level":"INFO","msg":"stream: created new stream","id":"ony57hui"}
+{"time":"2026-02-27T01:07:21.7824176+05:30","level":"INFO","msg":"handler: started","stream_id":"ony57hui"}
+{"time":"2026-02-27T01:07:21.7886525+05:30","level":"INFO","msg":"stream: started","id":"ony57hui"}
+{"time":"2026-02-27T01:07:21.7897109+05:30","level":"INFO","msg":"writer: started","stream_id":"ony57hui"}
+{"time":"2026-02-27T01:07:21.7897109+05:30","level":"INFO","msg":"sender: started","stream_id":"ony57hui"}
+{"time":"2026-02-27T10:06:39.014639+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/ma24m0-iit-madras/mnist-ann/ony57hui/file_stream\": context deadline exceeded"}
+{"time":"2026-02-27T10:09:17.8798643+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-27T10:09:18.2616042+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-27T10:09:18.2796683+05:30","level":"INFO","msg":"stream: closing","id":"ony57hui"}
+{"time":"2026-02-27T10:09:18.280196+05:30","level":"INFO","msg":"handler: closed","stream_id":"ony57hui"}
+{"time":"2026-02-27T10:09:18.2807807+05:30","level":"INFO","msg":"sender: closed","stream_id":"ony57hui"}
+{"time":"2026-02-27T10:09:18.2807807+05:30","level":"INFO","msg":"stream: closed","id":"ony57hui"}

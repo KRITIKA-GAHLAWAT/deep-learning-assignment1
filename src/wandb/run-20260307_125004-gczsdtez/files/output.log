@@ -1,0 +1,18 @@
+Traceback (most recent call last):
+  File "C:\Users\hp\dl_project\assignment\deep-learning-assignment1\src\weight_initialization.py", line 226, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\hp\dl_project\assignment\deep-learning-assignment1\src\weight_initialization.py", line 155, in main
+    zeros_grads, zeros_loss = collect_gradients(
+                              ~~~~~~~~~~~~~~~~~^
+        x_train=x_train,
+        ^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+        random_seed=args.random_seed,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\hp\dl_project\assignment\deep-learning-assignment1\src\weight_initialization.py", line 57, in collect_gradients
+    for xb, yb in model._iter_minibatches(x_train, y_train):
+                  ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+TypeError: NeuralNetwork._iter_minibatches() missing 1 required positional argument: 'batch_size'

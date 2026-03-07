@@ -1,0 +1,12 @@
+{"time":"2026-03-07T19:43:26.5472508+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-03-07T19:43:27.0518972+05:30","level":"INFO","msg":"stream: created new stream","id":"jxtxiwmi"}
+{"time":"2026-03-07T19:43:27.0534807+05:30","level":"INFO","msg":"handler: started","stream_id":"jxtxiwmi"}
+{"time":"2026-03-07T19:43:27.0560127+05:30","level":"INFO","msg":"stream: started","id":"jxtxiwmi"}
+{"time":"2026-03-07T19:43:27.0566238+05:30","level":"INFO","msg":"writer: started","stream_id":"jxtxiwmi"}
+{"time":"2026-03-07T19:43:27.0566238+05:30","level":"INFO","msg":"sender: started","stream_id":"jxtxiwmi"}
+{"time":"2026-03-07T19:43:31.6464058+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-03-07T19:43:32.0545803+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-03-07T19:43:32.0629555+05:30","level":"INFO","msg":"stream: closing","id":"jxtxiwmi"}
+{"time":"2026-03-07T19:43:32.0629555+05:30","level":"INFO","msg":"handler: closed","stream_id":"jxtxiwmi"}
+{"time":"2026-03-07T19:43:32.0629555+05:30","level":"INFO","msg":"sender: closed","stream_id":"jxtxiwmi"}
+{"time":"2026-03-07T19:43:32.0629555+05:30","level":"INFO","msg":"stream: closed","id":"jxtxiwmi"}
